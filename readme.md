@@ -58,10 +58,6 @@ Add the extensions you want. See more [Extensions](#extensions)
 $ npm install
 ```
 
-4. Remove Git and readme
-
-Remove the [expressjs-app-structure](https://github.com/senhungwong/expressjs-app-structure) git folder so you can push it to your own git.
-
 ```bash
 $ rm -rf .git && readme.md
 ```
